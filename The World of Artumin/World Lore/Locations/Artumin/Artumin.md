@@ -26,3 +26,6 @@
     - Its openness to adventuring companies
     - Its decentralized, guild-based structure, which allows many entry points to influence
 - Advancement is often tied to **guild membership, status, or patronage**—social mobility may be possible, but only through institutional structures.
+
+
+

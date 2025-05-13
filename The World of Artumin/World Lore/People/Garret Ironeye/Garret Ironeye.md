@@ -8,7 +8,7 @@ aliases:
 **Race:** Dwarf  
 **Class/Profession:** Paladin
 **Faith:** Paladin of **[[Gorm]]**, the god of war  
-**Appearance:** Bald, long-bearded, with a bulbous nose and a perpetually hard-edged expression  
+**Appearance:** Bald, long-bearded, with a bulbous nose and a perpetually hard-edged expression 
 **Reputation:** Stubborn, hotheaded—even by dwarven standards—but respected
 **Appears in:** [[The Meeting - An Examination of Value]]
 
