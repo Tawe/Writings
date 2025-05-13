@@ -1,4 +1,4 @@
-![The Meeting - An Examination of Value](themeeting.png)
+![Where Worth Lies: An Examination of Value](themeeting.png)
 
 The candles had long since burned to nubs, and still the papers lay scattered across the desk like bones picked clean. The Adventurer’s Guild—one of the largest minor guilds in the free city of Artumin—had grown fast in recent years, and whispers said it was poised to ascend into the ranks of the city’s eight major guilds. That made this year's bonus season all the more scrutinized. These weren’t just payments—they were signals. Markers of who the Guild valued, who might be trusted with more, and who would shape its path if the elevation went through. Jefferson Blacksword, newly appointed Guildmaster, had signed every decision himself. Jefferson Blacksword sat with his hands steepled, the firelight casting long shadows across the old war-scar that crept from his brow to cheek. He wasn't reading anymore—he hadn’t been for some time. He was bracing.
 
