@@ -1,0 +1,45 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor backup files
+*~
+*.bak
+*.swp
+*.swo
+.~lock.*
+~$*
+
+# Word processor temporary files
+~*.doc*
+~*.docx*
+~*.tmp
+
+# LaTeX intermediate files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.dvi
+
+# PDF output (optional, uncomment if you don't want to track compiled PDFs)
+# *.pdf
+
+# Markdown editor preview files
+*.md.html
+.markdown-preview.html
+
+# Other writing software
+.scrivener-autosave
+*.scrivener-backup
+
