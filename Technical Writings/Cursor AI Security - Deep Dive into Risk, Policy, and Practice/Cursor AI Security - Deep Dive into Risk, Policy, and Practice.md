@@ -75,7 +75,7 @@ Cursor reads it as an instruction and offers a code edit removing the login chec
 
 ### 2. Typo-Squatting Package
 
-Cursor suggests `jsonwebtoken-fast`. It’s a lookalike package with no repo history, no maintainer identity, and obfuscated code.
+Cursor suggests `jsonwebtoken-fast`, a package that mimics the trusted `jsonwebtoken` but has none of its history, transparency, or accountability. It lacks a legitimate repository, has no identifiable maintainer, and its source code is obfuscated—hallmarks of a malicious or typo-squatted package.
 
 **Root Cause**: AI has no vetting layer for dependency safety.  
 **Mitigation**: Never install directly from a prompt. Vet it like you’d vet code from a stranger.  
@@ -83,7 +83,7 @@ Cursor suggests `jsonwebtoken-fast`. It’s a lookalike package with no repo his
 
 ### 3. YOLO Mode Rewrite
 
-A new hire enables YOLO mode on a monorepo. Cursor rewrites Helm charts, injects a default password, and triggers a CI build.
+A new hire enables YOLO mode—Cursor's aggressive apply-changes feature—on a large monorepo containing both application code and deployment configurations. Without safeguards, Cursor rewrites deployment configuration files, injects a default admin password into a values file, and triggers a CI build that pushes changes directly to the staging environment. No review, no rollback plan, and minimal traceability.
 
 **Root Cause**: Agents with commit power and no review = risk.  
 **Mitigation**: Block YOLO mode in production repos.  
