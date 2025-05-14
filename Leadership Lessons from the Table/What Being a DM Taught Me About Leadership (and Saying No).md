@@ -1,4 +1,6 @@
+---
 Publish Date: 05/08/2025
+---
 
 ![What Being a DM Taught Me About Leadership (and Saying No)](WhatBeingaDMTaughtMeAboutLeadership(and%20Saying%20No).png)
 I’ve been running tabletop games for most of my life — 28 years and counting. I started in middle school, just trying to have fun with my friends. Somewhere along the way, I realized that sitting behind the DM screen taught me more about leadership than any training program ever did.
