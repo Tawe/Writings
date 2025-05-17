@@ -2,12 +2,12 @@
 aliases:
   - Porga
 ---
-**Role:** Senior Guild Member and Internal Strategist within the [[Adventurer’s Guild ]] 
+**Role:** Senior Guild Member and Internal Strategist within the [[Adventurer's Guild]] 
 **Race:** Orc  
 **Class/Profession:** Likely a **veteran warrior or battle-mage** who transitioned into a leadership-support role—trainer, researcher, and operational architect  
 **Faith:** Not mentioned; possibly secular, or a quiet follower of a god of wisdom, vigilance, or guardianship  
 **Appearance:** Not explicitly described, but implied to be older, heavily scarred or worn from a life of battle. His “Brokentusk” name likely speaks to a past injury or ritual mark.
-**Appears in:** [[The Meeting - An Examination of Value]] (Mention)
+**Appears in:** [[Where Worth Lies - An Examination of Value]] (Mention)
 
 ---
 

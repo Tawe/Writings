@@ -3,7 +3,7 @@ aliases:
   - Nora
 ---
 ![Nora Greyhelm](noragreyhelm.png)
-**Role:** Head of Procurement for the [[Honorable Brotherhood of Watchmen, Protectors, and Bodyguards]]
+**Role:** Head of Procurement for  [[The Honorable Brotherhood of Watchmen, Protectors, and Bodyguards]]
 **Race:** Human  
 **Age:** Late 40s  
 **Class/Function:** Martial Leader (Fighter/Logistics Specialist Archetype)  

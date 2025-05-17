@@ -10,7 +10,7 @@ aliases:
 ***Faith:*** No specific deity mentioned; likely respectful of divine traditions, but not devout—leans more toward discipline and internal code  
 ***Appearance:*** Mid-40s, salt-and-pepper hair and beard, lined and scarred face; typically dressed in worn leathers or a fur-lined cloak with understated authority  
 ***Reputation:*** Fair, disciplined, and quietly respected; known for past battlefield excellence but now seen as a thoughtful, systems-oriented leader. To many, he is the steady hand guiding the Guild’s rise. To a few, he may seem too bureaucratic or detached from the trenches.
-**Appears in:** [[The Meeting - An Examination of Value]]
+**Appears in:** [[Where Worth Lies - An Examination of Value]]
 
 ---
 

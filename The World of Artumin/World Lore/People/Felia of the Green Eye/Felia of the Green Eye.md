@@ -8,7 +8,7 @@ aliases:
 **Class/Profession:** Herbalist and **Cleric of [[Selindra]]**, the Green Mother  
 **Personality:** Steady, kind, and quietly competent  
 **Reputation:** Trusted and highly regarded within her team—but largely invisible in broader Guild culture
-**Appears In:** [[The Meeting - An Examination of Value]] (mention)
+**Appears In:** [[Where Worth Lies - An Examination of Value]]  (mention)
 
 ---
 

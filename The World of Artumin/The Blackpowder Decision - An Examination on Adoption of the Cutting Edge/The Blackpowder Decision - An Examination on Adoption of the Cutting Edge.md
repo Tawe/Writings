@@ -30,7 +30,7 @@ William glanced at her. "You know, I’ve heard it too. Talk in the council hall
 
 Nora’s jaw tightened, but she said nothing.
 
-""Eighteen percent drop in enrollment," William continued. "And the ones we keep? Half of them are looking sideways at the Adventurer’s Guild. They see gold, glory, custom gear. We offer? Routine. Orders. Salary."
+""Eighteen percent drop in enrollment," William continued. "And the ones we keep? Half of them are looking sideways at the Adventurer’s Guild. They see gold, glory, fancy gear. We offer? Routine. Orders. Salary."
 
 "Stability," she said. "We offer a code."
 
@@ -52,7 +52,7 @@ He stopped walking just long enough to face her directly. "If this fails, I’ll
 
 Nora nodded once—grimly.
 
-"And how will we maintain them? Do we expect quartermasters to pick up complex repair tasks with no guidance? Do we let Watchmen improvise field repairs between drills and hope that’s good enough?"
+"And how will we maintain them? How many quartermasters have the skills—or the time to strip down a blackpowder weapon between shifts? How many field teams can afford to stop training drills to chase misfires?"
 
 She didn’t wait for an answer. And she didn’t expect one—not from William, not really. The last time she’d trusted a supplier’s quote, the replacement spears had arrived warped and short-stocked. The last time she’d approved a rushed training protocol, two Watchmen had lost fingers to a failed gate brace.
 
@@ -72,7 +72,7 @@ Nora stared at the training dummies. Crossbows rested at ease. So did the Watchm
 
 She said nothing. Just stared. Beyond the arch, a young recruit sat in the shade cleaning a crossbow string already frayed at the nock. She wasn’t meant to notice, but she always did.
 
-She remembered the last time they waited too long—a delay on approving the ravine-breach towers outside Windturn. Twelve Watchmen lost. And the mage-lanterns? Approved too fast. Three injured. One lost hand. That one had been hers.
+She remembered delays: ravine towers held in review until twelve Watchmen never came home. And the mage-lanterns? Rushed into use. Three injuries, one lost hand. That call had been hers.
 
 She imagined a future where recruits lined up—not for matching armor, but for something that might keep them alive. And a different one, where they clung too long to certainty and watched the world pass them by.
 
@@ -130,9 +130,9 @@ William blinked. Then nodded, fire rekindled.
 
 "Yes, Captain."
 
-Neither of them said it, but both knew: this was the smallest step. And maybe the first fracture.
+Neither of them said it, but both knew: this was only a beginning. A step across a line they’d never be able to unmark.
 
-Nora turned back toward the yard. In the distance, the recruit still worked at the frayed string.
+Nora turned back toward the yard. In the distance, the recruit still worked at the frayed string. The drill master barked a command, but the rhythm was off—an echo of a formation too long unchanged.
 
 "Go."
 
