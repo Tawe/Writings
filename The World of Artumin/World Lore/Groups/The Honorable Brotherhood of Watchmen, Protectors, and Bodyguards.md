@@ -52,4 +52,4 @@ Despite its diminished status, the Brotherhood maintains a strong internal cultu
 - Declining enrollment and **brain drain to more flexible guilds**
 - Budget constraints and **difficulty justifying innovation spend**
 - Internal friction between **traditionalists and reformers**
-- Rumors that **northern watch duties may be outsourced** to the [[Adventurer's Guild]]]
+- Rumors that **northern watch duties may be outsourced** to the [[Adventurer's Guild]]

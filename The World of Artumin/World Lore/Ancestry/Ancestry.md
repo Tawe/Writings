@@ -63,3 +63,16 @@ While specific mechanics may vary by system, Telma characters are often represen
 **Notable Individuals:**
 
 - **[[Hillcrack the Mighty]]**, barbarian of the [[Ravenguard]], known for his strength, patience, and spiritual clarity during the mission to [[The Skeleton King]]’s tomb
+
+## Kalidor
+
+**Origin:** Coral reef communities and coastal cities; aquatic simian-like folk shaped by millennia of tidal interaction  
+**Type:** Humanoid (Water-Touched)  
+**Average Lifespan:** 60–80 years  
+**Common Height:** 5.0 – 6.0 feet  
+**Notable Traits:** Fluid movement patterns; gill-slits for underwater breathing; prehensile fingers; thought patterns that mirror tidal flows
+
+The Kalidor are a graceful people whose bodies and minds reflect their deep connection to water and tide. Their skin shimmers with hints of deep-sea colors while subtle gill-slits allow underwater breathing. They value **adaptability, flow, and precise timing**, believing that **wisdom comes in waves**. Their fluid intelligence and pattern-recognition abilities make them excellent analysts, craftspeople, and negotiators.
+
+**Notable Individuals:**
+- **[[Claina Boltstump]]**, member of the [[Diligent Order of Locksmiths]], known for her analytical mind and policy innovation

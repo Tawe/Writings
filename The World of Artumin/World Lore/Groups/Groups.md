@@ -458,3 +458,79 @@ Despite its diminished status, the Brotherhood maintains a strong internal cultu
 - Their arc in _The Threshold – An Examination of Cost_ exemplifies the moment when **safe strategy meets existential risk**.
 - Symbolize the tension between **earned caution and aspirational ambition**—and what happens when trust is tested at the edge of survival.
 - The Guild values them more in **loss than in legacy**, raising uncomfortable truths about how adventurers are measured.
+
+
+----
+
+## Diligent Order of Locksmiths
+
+**Type:** Professional Guild (Minor)  
+**Headquarters:** The Great Hall of Smiths, [[Artumin]]  
+**Leadership:** Grand Key Molder (currently vacant following Vantus Malgony's death)  
+**Function:** Master crafters of locks, keys, and precision mechanisms; guardians of secure storage throughout the city
+
+---
+
+### 🔧 **Core Operations**
+
+- **All advanced locksmithing** within [[Artumin]]'s jurisdiction flows through the Order
+- Maintains **exclusive contracts** for:
+  - Noble house security systems
+  - Guild vault mechanisms  
+  - Municipal building locks
+  - Ceremonial and religious lock-work
+- Takes percentage of fees and provides **quality assurance** for all member work
+- Functions as both **craft guild and religious order**, dedicated to [[Tamaral]] the Opener
+
+---
+
+### ⚙️ **Internal Structure**
+
+- Led by a **Grand Key Molder** who serves as both craft master and spiritual guide
+- Governed by the **Ringed Council**—seven senior masters representing different specializations
+- **Rank progression**: Apprentice → Journeyman → Master → Key Molder
+- **The Seven-Fold Spiral of Ascension**: symbolic progression representing mastery stages
+
+---
+
+### 🏛️ **The Great Hall of Smiths**
+
+- **Sacred forge-temple** where craft becomes worship
+- Features **viewing platforms** ringed with brass reliefs of past Grand Keys
+- **Ritual hooks** hold gloves of deceased masters—oiled leather never discarded
+- **Ceremonial warding arches** over each forge, engraved with the Locksmith's Oath: *"To seal wisely, to open justly, to leave no mark upon what is not mine"*
+
+---
+
+### 📿 **Religious Practices**
+
+- Follows the doctrine of **[[Tamaral]] the Opener**—goddess of locks and earned understanding
+- **The Lockbinder's Concord**: traditional recitation closing all major guild meetings
+- Daily work itself serves as prayer—each precise cut and aligned tumbler honors Tamaral
+- **Key consecration rituals** bless new mechanisms before first use
+
+---
+
+### ⚖️ **Current Crisis: The Succession**
+
+Following the death of **Vantus Malgony** from a strange fever, the Order faces a critical leadership vacuum. The **Ringed Council** has split between two candidates:
+
+- **[[Valora Goldwhisper]]**: Traditional master with 30 years experience, represents continuity
+- **[[Jolek P'lot]]**: Innovative craftsman from [[Cashmei]], represents modernization
+
+The deciding vote rests with **[[Galous Brokenstream]]**, whose choice will shape the Order's future direction.
+
+---
+
+### 🛠️ **Cultural Impact**
+
+- Represents the intersection of **technical mastery and spiritual devotion**
+- Embodies themes of **earned expertise versus innovative thinking** 
+- In [[Artumin]]'s guild hierarchy, serves as example of how **craft traditions** navigate pressure to modernize
+
+**Notable Members:**
+- **[[Galous Brokenstream]]** - Master locksmith with the deciding vote
+- **[[Valora Goldwhisper]]** - Traditional candidate for Grand Key Molder
+- **[[Jolek P'lot]]** - Innovative candidate from [[Cashmei]]
+- **[[Claina Boltstump]]** - [[Kalidor]] master known for policy innovation
+- **[[Rendin Coilhook]]** - Elder councilor and traditionalist voice

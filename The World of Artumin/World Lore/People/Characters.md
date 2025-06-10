@@ -872,3 +872,74 @@ He stands as a mirror to the [[Ravenguard]]’s journey:
 To confront him is to confront the cost of legacy gone too far. The question isn’t whether the Ravenguard can defeat him.
 
 The question is whether they’ll become him.
+
+
+---
+
+### Galous Brokenstream
+
+**Role:** Master Locksmith of the [[Diligent Order of Locksmiths]]; holder of the deciding vote in the succession crisis  
+**Race:** Human  
+**Age:** Late 40s  
+**Class/Profession:** **Master Locksmith and Key Molder**  
+**Faith:** Devout follower of **[[Tamaral]] the Opener**  
+**Reputation:** Thoughtful, deliberate, and deeply committed to the Order's spiritual traditions  
+**Appears in:** [[The Keys of Continuance - An Examination of Succession]]
+
+Galous holds the seventh and deciding vote in the selection of the new Grand Key Molder. His choice between traditional [[Valora Goldwhisper]] and innovative [[Jolek P'lot]] will determine the Order's future direction.
+
+---
+
+### Valora Goldwhisper
+
+**Role:** Traditional Master Locksmith and candidate for Grand Key Molder  
+**Race:** Human  
+**Age:** 50s  
+**Class/Profession:** **Master Locksmith** with 30 years of traditional experience  
+**Faith:** Orthodox follower of **[[Tamaral]] the Opener**  
+**Reputation:** Known for reliability, traditional mastery, and proven methods  
+**Appears in:** [[The Keys of Continuance - An Examination of Succession]] (mentioned)
+
+Represents continuity and established techniques in the succession crisis. Her candidacy embodies the value of institutional memory and proven excellence.
+
+---
+
+### Jolek P'lot
+
+**Role:** Innovative Master Locksmith and candidate for Grand Key Molder  
+**Race:** Human (possibly fey-touched lineage)  
+**Age:** Late 30s  
+**Class/Profession:** **Master Locksmith and Innovation Specialist**  
+**Faith:** Progressive follower of **[[Tamaral]] the Opener**  
+**Reputation:** Revolutionary techniques and adaptive problem-solving  
+**Appears in:** [[The Keys of Continuance - An Examination of Succession]] (mentioned)
+
+Trained in [[Cashmei]], represents innovation and modernization. His candidacy embodies adaptation to competitive pressures and economic evolution.
+
+---
+
+### Rendin Coilhook
+
+**Role:** Elder Master Councilor of the [[Diligent Order of Locksmiths]]  
+**Race:** Human  
+**Age:** 60s  
+**Class/Profession:** **Master Locksmith and Guild Historian**  
+**Faith:** Orthodox follower of **[[Tamaral]] the Opener**  
+**Reputation:** Living memory of guild traditions; trusts tools more than words, history more than hope  
+**Appears in:** [[The Keys of Continuance - An Examination of Succession]]
+
+Elder voice on the Ringed Council who provides institutional memory and supports traditional approaches to guild challenges.
+
+---
+
+### Vantus Malgony
+
+**Role:** Former Grand Key Molder of the [[Diligent Order of Locksmiths]] (deceased)  
+**Race:** Human  
+**Age:** 50s (at time of death)  
+**Class/Profession:** **Grand Master Locksmith and Spiritual Leader**  
+**Faith:** Devoted servant of **[[Tamaral]] the Opener**  
+**Reputation:** Revered as embodiment of guild values; his death created current succession crisis  
+**Appears in:** [[The Keys of Continuance - An Examination of Succession]] (mentioned posthumously)
+
+Former leader who died from a strange fever, leaving the guild without clear succession and creating the current leadership crisis.

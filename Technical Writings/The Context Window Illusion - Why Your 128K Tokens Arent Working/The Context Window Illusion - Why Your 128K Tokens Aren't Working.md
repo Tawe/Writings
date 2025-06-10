@@ -1,3 +1,7 @@
+
+![The Context Widow Illusion](contextwindow.webp)
+
+
 > “You paid for 128,000 tokens of context. You’re using maybe 30,000 effectively. The rest? Your model is ignoring them — and charging you anyway.”
 
 # Part 1: The Utilization Gap
@@ -12,6 +16,7 @@ To see this in action, here’s a side-by-side attention heatmap comparison:
 
 These heat maps reveal the “donut hole vividly: even with increased capacity, attention and accuracy drop steeply in the middle 70–80% of the prompt.
 
+![Decay Across Models](decayacrossmodels.webp)
 
 Long context windows sound great on paper. But in reality, most models exhibit a U-shaped attention pattern: they heavily weight the beginning and end of the context, and largely ignore the middle. This is the “donut hole” problem.
 
@@ -37,6 +42,7 @@ Benchmarks like NoLiMa and Lost in the Middle show this isn’t just a hunch, it
 - Multi-model comparison: Claude 2.1, Gemini 1.5, Llama 3, DeepSeek, and Mistral all show similar drop-offs.
 - Pricing impact: $200 worth of input tokens may only yield $60 of useful output. That’s a 3x cost multiplier for waste.
 
+![Effective Tokens Vs Context Length](effecenyvscontextlength.webp)
 
 It’s worth noting that what counts as an “effective” token can be task-specific. In this article, we use a pragmatic definition: tokens that demonstrably influence the model’s output (as measured by accuracy, relevance, or cited source).
 
@@ -68,6 +74,9 @@ Reminder: Your goal is to extract all important dates and deliverables.
 
 - Without the bookend: 58% correct extraction
 - With the bookend: 87% correct extraction
+
+![Prompt Restructuring Impact on QA Accuray](qaaccuracy.webp)
+
 
 **Repetition isn’t redundant — it’s reinforcement.**
 

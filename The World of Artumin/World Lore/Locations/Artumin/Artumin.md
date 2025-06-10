@@ -29,3 +29,28 @@
 
 
 
+
+
+---
+
+### 🏛️ **Notable Locations Beyond Artumin**
+
+**[[Cashmei]]** - Eastern trade city known for innovative craftsmanship and experimental techniques. Home to pattern-wrights who compete with traditional guild methods.
+
+**[[Westmarch]]** - Western engineering settlement specializing in military technology and technical documentation.
+
+**[[The Skeleton King's Tomb]]** - Ancient crypt containing the Sceptre of Radiance; site of dangerous high-tier adventuring contracts.
+
+---
+
+### 🏗️ **City Districts & Landmarks**
+
+**The Great Hall of Smiths** - Sacred forge-temple of the [[Diligent Order of Locksmiths]], where craft becomes worship.
+
+**South Ward** - Location of [[The Honorable Brotherhood of Watchmen, Protectors, and Bodyguards]] keep.
+
+**Council Chambers** - Where guild politics and major decisions are made.
+
+**Eastern Signal Tower** - Remote posting sometimes used for disciplinary assignments.
+
+**Northern Docks** - Commercial area where goods arrive by barge and river transport.

@@ -168,3 +168,62 @@ His worship shapes characters who act with **measured compassion**, often questi
 In stories, he is the **gently dissenting voice** in a world obsessed with conquest, ambition, or glory.
 
 He pairs thematically with gods like **[[Selindra]]**, sharing mercy through different lenses—and often stands in quiet contrast to harsher divine powers like [[Gorm]].
+
+
+----
+
+## Tamaral
+
+**Title:** the Opener  
+**Domain:** Locks, Secrets, Understanding, Earned Knowledge, Precise Craft  
+**Alignment:** Lawful Neutral  
+**Symbols:**
+- A **spiraling eye** carved into bronze or brass
+- An **open lock with a key still inserted**
+- **Interlocking gears** forming a complex mechanism
+
+---
+
+### 🔓 **Core Tenets**
+
+1. **Nothing should yield before it's understood.**  
+    Tamaral's followers believe that true mastery comes from comprehension, not force. To break a lock without understanding it is sacrilege.
+2. **Every secret has its proper time to open.**  
+    Patience and study reveal truth better than haste. Her faithful wait for understanding rather than demand immediate answers.
+3. **Craft perfection through precise knowledge.**  
+    Whether forging a lock or solving a mystery, excellence comes through methodical mastery of fundamentals.
+4. **What is earned lasts; what is forced breaks.**  
+    Her followers believe that achievements gained through patient work endure longer than those seized through shortcuts.
+
+---
+
+### ⚙️ **Worshipers**
+
+- Revered by **locksmiths, engineers, scholars, investigators, and artisans** who work with precision mechanisms
+- Popular among **guild crafters, puzzle-solvers, and anyone whose profession requires both technical skill and patient study**
+- In [[Artumin]], her worship is centered around the [[Diligent Order of Locksmiths]], where each precise cut and aligned tumbler is a form of prayer
+
+---
+
+### 🔧 **Temples and Rituals**
+
+- Her temples are often **workshops disguised as shrines**—filled with intricate mechanisms, practice locks, and ceremonial tools
+- The **Great Hall of Smiths** in the [[Diligent Order of Locksmiths]] serves as her primary temple, where the forge-work itself becomes worship
+- Rituals include:
+    - **The Lockbinder's Concord**—ceremonial recitation closing important guild meetings
+    - **Key Consecration**—blessing new locks or mechanisms before their first use
+    - **The Seven-Tumbler Meditation**—contemplative practice involving progressively complex locks
+
+---
+
+### 🗝️ **Narrative Themes**
+
+Tamaral represents **earned mastery over borrowed power**—the idea that true understanding comes through patient study rather than shortcuts.
+
+Her worship shapes characters who:
+- **Value process over results**
+- **Seek comprehension before action**
+- **Respect the complexity of problems before attempting solutions**
+- **Believe that what is truly understood cannot be easily broken**
+
+She stands as a philosophical counterpoint to gods of war, chaos, or divine revelation—emphasizing that the most profound truths are unlocked through dedicated craft rather than granted through favor.
