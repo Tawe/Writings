@@ -1,6 +1,6 @@
 ## Or How I Learned to Stop Worrying and Love the YAML
 
-![](kuberneteswithoutthekoolaid.webp)
+![](kuberneteswithoutthekoolaid%201.webp)
 
 Kubernetes doesn’t just orchestrate containers. It orchestrates opinions. Yours, your team’s, the platform team that doesn’t exist yet, and everyone who left before you to “pursue new opportunities” (translation: escape the YAML mines).
 
